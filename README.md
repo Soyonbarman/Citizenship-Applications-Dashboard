@@ -25,8 +25,7 @@ The dataset used for this analysis can be found [here](https://github.com/Soyonb
 
 ## Tableau Dashboard
 ![Screenshot_16](https://github.com/user-attachments/assets/36c41b65-ea96-4d8a-9875-6eb7c334fa9c)
-
-<a hrep ="https://public.tableau.com/views/CitizenshipapplicationsandcertificatesissuedDashboard/CitizenshipApplicationsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"> Dashboard File </a>
+The interactive Tableau dashboard can be accessed [here](https://public.tableau.com/views/CitizenshipapplicationsandcertificatesissuedDashboard/CitizenshipApplicationsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 ## Visual Highlights
 1. Trend Analysis
