@@ -1,7 +1,7 @@
-#Citizenship Applications Dashboard
+# Citizenship Applications Dashboard
 This dashboard provides insights into the trends, variations, and proportions of citizenship applications over the years, categorized by application status and nationality.
 
-##Overview
+## Overview
 The dashboard analyzes data from 2017 to 2024, focusing on the following aspects:
 
 Trend in Citizenship Applications (2017–2024):
