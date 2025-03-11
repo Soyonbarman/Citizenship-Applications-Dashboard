@@ -1,6 +1,10 @@
 # Citizenship Applications Dashboard
 This dashboard provides insights into the trends, variations, and proportions of citizenship applications over the years, categorized by application status and nationality.
 
+## Tableau Dashboard
+![Screenshot_16](https://github.com/user-attachments/assets/36c41b65-ea96-4d8a-9875-6eb7c334fa9c)
+The interactive Tableau dashboard can be accessed [here](https://public.tableau.com/views/CitizenshipapplicationsandcertificatesissuedDashboard/CitizenshipApplicationsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+
 ## Overview
 1. The dashboard analyzes data from 2017 to 2024, focusing on the following aspects:
 
@@ -23,9 +27,7 @@ Highlights the proportion of applications issued compared to those received for 
 ## Dataset
 The dataset used for this analysis can be found [here](https://github.com/Soyonbarman/Citizenship-Applications-Dashboard/blob/main/Visa%20applications%20and%20decisions.csv).
 
-## Tableau Dashboard
-![Screenshot_16](https://github.com/user-attachments/assets/36c41b65-ea96-4d8a-9875-6eb7c334fa9c)
-The interactive Tableau dashboard can be accessed [here](https://public.tableau.com/views/CitizenshipapplicationsandcertificatesissuedDashboard/CitizenshipApplicationsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+
 
 ## Visual Highlights
 1. Trend Analysis
